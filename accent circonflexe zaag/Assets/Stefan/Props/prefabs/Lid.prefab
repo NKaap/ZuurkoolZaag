@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 570652866310770167}
   - component: {fileID: 3881228033452841673}
   m_Layer: 0
-  m_Name: low lid
+  m_Name: Lid
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
