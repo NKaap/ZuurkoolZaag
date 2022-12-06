@@ -67,7 +67,7 @@ MonoBehaviour:
     m_Value: 0
   intensity:
     m_OverrideState: 1
-    m_Value: 1.5
+    m_Value: 1.64
   directLightingStrength:
     m_OverrideState: 1
     m_Value: 0.649
@@ -141,7 +141,7 @@ MonoBehaviour:
     m_OverrideState: 1
     m_Value: 1
   localClouds:
-    m_OverrideState: 0
+    m_OverrideState: 1
     m_Value: 0
   earthCurvature:
     m_OverrideState: 0
@@ -186,7 +186,7 @@ MonoBehaviour:
     m_Value: 0
   cloudPreset:
     m_OverrideState: 1
-    m_Value: 1
+    m_Value: 3
   cumulusMap:
     m_OverrideState: 0
     m_Value: {fileID: 0}
@@ -503,14 +503,14 @@ MonoBehaviour:
     m_OverrideState: 1
     m_Value: 0
   meteringMode:
-    m_OverrideState: 0
-    m_Value: 2
+    m_OverrideState: 1
+    m_Value: 0
   luminanceSource:
     m_OverrideState: 0
     m_Value: 1
   fixedExposure:
-    m_OverrideState: 0
-    m_Value: 0
+    m_OverrideState: 1
+    m_Value: 11.946307
   compensation:
     m_OverrideState: 0
     m_Value: 2.74
