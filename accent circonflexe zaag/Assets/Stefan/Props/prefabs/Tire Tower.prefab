@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 3449299515200514453}
   m_Layer: 0
   m_Name: Tire Tower
-  m_TagString: Untagged
+  m_TagString: Item
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -114,7 +114,7 @@ Rigidbody:
   m_AngularDrag: 0.05
   m_UseGravity: 1
   m_IsKinematic: 0
-  m_Interpolate: 0
+  m_Interpolate: 2
   m_Constraints: 0
   m_CollisionDetection: 0
 --- !u!1001 &830835476761599074
@@ -188,6 +188,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: low poly (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 3fa008c11d0bfca43830a25708660f7d, type: 3}
+      propertyPath: m_TagString
+      value: Item
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3fa008c11d0bfca43830a25708660f7d, type: 3}
 --- !u!1 &524336922750345523 stripped
@@ -208,7 +212,7 @@ Rigidbody:
   m_AngularDrag: 0.05
   m_UseGravity: 1
   m_IsKinematic: 0
-  m_Interpolate: 0
+  m_Interpolate: 2
   m_Constraints: 0
   m_CollisionDetection: 0
 --- !u!64 &2172591565326924072
@@ -301,6 +305,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: low poly (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 3fa008c11d0bfca43830a25708660f7d, type: 3}
+      propertyPath: m_TagString
+      value: Item
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3fa008c11d0bfca43830a25708660f7d, type: 3}
 --- !u!1 &7186383889875075003 stripped
@@ -321,7 +329,7 @@ Rigidbody:
   m_AngularDrag: 0.05
   m_UseGravity: 1
   m_IsKinematic: 0
-  m_Interpolate: 0
+  m_Interpolate: 2
   m_Constraints: 0
   m_CollisionDetection: 0
 --- !u!64 &7825992630365325387

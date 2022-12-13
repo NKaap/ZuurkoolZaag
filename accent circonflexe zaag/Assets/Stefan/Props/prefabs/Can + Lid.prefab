@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 6569764996244414822}
   m_Layer: 0
   m_Name: Can + Lid
-  m_TagString: Untagged
+  m_TagString: Item
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -113,7 +113,7 @@ Rigidbody:
   m_AngularDrag: 0.05
   m_UseGravity: 1
   m_IsKinematic: 0
-  m_Interpolate: 0
+  m_Interpolate: 2
   m_Constraints: 0
   m_CollisionDetection: 0
 --- !u!1001 &5908725978923911584
@@ -187,6 +187,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: low lid
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: a2c3a10272989134ebfdae92673bf76e, type: 3}
+      propertyPath: m_TagString
+      value: Item
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a2c3a10272989134ebfdae92673bf76e, type: 3}
 --- !u!4 &6163945222706081355 stripped
@@ -212,7 +216,7 @@ Rigidbody:
   m_AngularDrag: 0.05
   m_UseGravity: 1
   m_IsKinematic: 0
-  m_Interpolate: 0
+  m_Interpolate: 2
   m_Constraints: 0
   m_CollisionDetection: 0
 --- !u!64 &6013680330080258429
