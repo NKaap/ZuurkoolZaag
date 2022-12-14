@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 1188.0635, g: 1423.207, b: 1875.0801, a: 1}
+  m_IndirectSpecularColor: {r: 1415.1855, g: 1612.2676, b: 2030.2344, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -301,6 +301,63 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &1404795680561283994
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2337256236512591337, guid: 448a21f3b0703fe4f835bd3e536f4e94, type: 3}
+      propertyPath: m_RootOrder
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 2337256236512591337, guid: 448a21f3b0703fe4f835bd3e536f4e94, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2337256236512591337, guid: 448a21f3b0703fe4f835bd3e536f4e94, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2337256236512591337, guid: 448a21f3b0703fe4f835bd3e536f4e94, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2337256236512591337, guid: 448a21f3b0703fe4f835bd3e536f4e94, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071067
+      objectReference: {fileID: 0}
+    - target: {fileID: 2337256236512591337, guid: 448a21f3b0703fe4f835bd3e536f4e94, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 2337256236512591337, guid: 448a21f3b0703fe4f835bd3e536f4e94, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2337256236512591337, guid: 448a21f3b0703fe4f835bd3e536f4e94, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2337256236512591337, guid: 448a21f3b0703fe4f835bd3e536f4e94, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2337256236512591337, guid: 448a21f3b0703fe4f835bd3e536f4e94, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2337256236512591337, guid: 448a21f3b0703fe4f835bd3e536f4e94, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3108691579843798867, guid: 448a21f3b0703fe4f835bd3e536f4e94, type: 3}
+      propertyPath: m_Name
+      value: blue corvette
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 448a21f3b0703fe4f835bd3e536f4e94, type: 3}
 --- !u!1001 &5169111440635717062
 PrefabInstance:
   m_ObjectHideFlags: 0
