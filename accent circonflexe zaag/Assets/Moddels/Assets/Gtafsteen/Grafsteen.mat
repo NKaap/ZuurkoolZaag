@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!114 &-8767069485673262447
+--- !u!114 &-3653481372166637194
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}
@@ -23,7 +23,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Muur
+  m_Name: Grafsteen
   m_Shader: {fileID: 4800000, guid: 6e4ae4064600d784cac1e41a9e6f2e59, type: 3}
   m_ValidKeywords:
   - _DISABLE_SSR_TRANSPARENT
@@ -50,7 +50,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BaseColorMap:
-        m_Texture: {fileID: 2800000, guid: b296a69bb8dfc64418d2d2b28542929e, type: 3}
+        m_Texture: {fileID: 2800000, guid: 6de67ef69ecd8a240b3c1650e6262495, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BentNormalMap:
@@ -86,15 +86,15 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: b296a69bb8dfc64418d2d2b28542929e, type: 3}
+        m_Texture: {fileID: 2800000, guid: 6de67ef69ecd8a240b3c1650e6262495, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MaskMap:
-        m_Texture: {fileID: 2800000, guid: debed2d360372134bab3bfd799628d29, type: 3}
+        m_Texture: {fileID: 2800000, guid: cf70e3d8570d6c8409307aa4173de301, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _NormalMap:
-        m_Texture: {fileID: 2800000, guid: 38eb01df4363ad84ca5ab271cb688238, type: 3}
+        m_Texture: {fileID: 2800000, guid: ee8ec43c1652cd242821be132a54f127, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _NormalMapOS:
@@ -196,10 +196,10 @@ Material:
     - _LinkDetailsWithBase: 1
     - _MaterialID: 1
     - _Metallic: 0
-    - _MetallicRemapMax: 0.9999999
-    - _MetallicRemapMin: 0.9406527
+    - _MetallicRemapMax: 1
+    - _MetallicRemapMin: 0
     - _NormalMapSpace: 0
-    - _NormalScale: 0.74
+    - _NormalScale: 1
     - _OpaqueCullMode: 2
     - _PPDLodThreshold: 5
     - _PPDMaxSamples: 15
