@@ -2496,7 +2496,7 @@ MeshRenderer:
   m_RenderingLayerMask: 257
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 04da973b7bf884c4b832d8f21d1cfcbf, type: 2}
+  - {fileID: 2100000, guid: cacdf8a3509bcde40a9f7ab87b0b3a6a, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -2528,7 +2528,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2688551000364147083}
   m_Layer: 0
-  m_Name: House 1
+  m_Name: Red
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
